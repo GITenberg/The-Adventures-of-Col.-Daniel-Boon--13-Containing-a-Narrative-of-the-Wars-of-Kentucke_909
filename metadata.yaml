@@ -1,0 +1,28 @@
+_repo: The-Adventures-of-Col.-Daniel-Boon--13-Containing-a-Narrative-of-the-Wars-of-Kentucke_909
+_version: 0.0.1
+alternative_title: The Adventures of Colonel Daniel Boon
+creator:
+  author:
+    agent_name: Filson, John
+    deathdate: 1788
+    gutenberg_agent_id: '468'
+    url: http://www.gutenberg.org/2009/agents/468
+description: ''
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- History -- To 1792'
+- !lcsh 'Boone, Daniel, 1734-1820'
+- !lcc 'F396'
+- !lcsh 'Pioneers -- Kentucky -- Biography'
+- !lcsh 'Indian captivities -- Kentucky'
+- GITenberg
+title: "The Adventures of Col. Daniel Boon\r\nContaining a Narrative of the Wars of\
+  \ Kentucke"
+url: http://www.gutenberg.org/ebooks/909
