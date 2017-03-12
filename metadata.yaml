@@ -1,6 +1,9 @@
 _repo: The-Adventures-of-Col.-Daniel-Boon--13-Containing-a-Narrative-of-the-Wars-of-Kentucke_909
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Adventures of Colonel Daniel Boon
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Filson, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '468'
     url: http://www.gutenberg.org/2009/agents/468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/909#The-Adventures-of-Col.-Daniel-Boon--13-Containing-a-Narrative-of-the-Wars-of-Kentucke
 gutenberg_issued: '2006-02-05'
 gutenberg_type: Text
 identifiers:
